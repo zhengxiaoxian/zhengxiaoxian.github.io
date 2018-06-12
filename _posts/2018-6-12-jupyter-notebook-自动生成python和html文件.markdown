@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "jupyter notebook 自动生成python和html文件"
+date:   2018-06-12 23:41:29 +0800
+categories: essay
+---
 命令行中运行 ipython locate profile default
 
 找到配置文件目录
