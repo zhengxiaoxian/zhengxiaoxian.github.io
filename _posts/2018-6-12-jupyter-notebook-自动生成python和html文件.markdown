@@ -14,7 +14,7 @@ categories: essay
 
 粘贴代码到 jupyter_notebook_config.py
 
-```
+```python
 
 # Based off of https://github.com/jupyter/notebook/blob/master/docs/source/extending/savehooks.rst
 
